@@ -10,7 +10,8 @@ Hardware:
 
 Links:
  * Dumps de todos los proyectos de wikimedia https://dumps.wikimedia.org/backup-index.html
- * 3-clicks installer wikitaxi http://www.wikitaxi.org/delphi/products/wikitaxi/index
+ * (Linux) Kiwix http://www.kiwix.org/wiki/Main_Page/es
+ * (Windows) 3-clicks installer wikitaxi http://www.wikitaxi.org/delphi/products/wikitaxi/index
 
 
 Más datos:
